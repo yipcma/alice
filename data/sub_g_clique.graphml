@@ -1,0 +1,466 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="long" for="edge" id="d2" />
+  <key attr.name="n_cliques" attr.type="long" for="node" id="d1" />
+  <key attr.name="betweeness" attr.type="double" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="cook">
+      <data key="d0">0.013865546218487394</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="turtle">
+      <data key="d0">0.041087344028520496</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="juror">
+      <data key="d0">0.00035650623885918</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="march">
+      <data key="d0">0.0035650623885918</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="alice">
+      <data key="d0">0.6332208641032171</data>
+      <data key="d1">29</data>
+    </node>
+    <node id="duchess">
+      <data key="d0">0.002287581699346405</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="caterpillar">
+      <data key="d0">0.0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="lacie">
+      <data key="d0">0.0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="dormouse">
+      <data key="d0">0.018478906714200827</data>
+      <data key="d1">4</data>
+    </node>
+    <node id="duck">
+      <data key="d0">0.00089126559714795</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="baby">
+      <data key="d0">0.0011140819964349374</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="sister">
+      <data key="d0">0.00213903743315508</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="eaglet">
+      <data key="d0">0.0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="king">
+      <data key="d0">0.032015533486121725</data>
+      <data key="d1">7</data>
+    </node>
+    <node id="puppy">
+      <data key="d0">0.0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="pigeon">
+      <data key="d0">0.0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="dinah">
+      <data key="d0">0.0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="knave">
+      <data key="d0">0.0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="crab">
+      <data key="d0">0.00089126559714795</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="mouse">
+      <data key="d0">0.0718062982768865</data>
+      <data key="d1">5</data>
+    </node>
+    <node id="tillie">
+      <data key="d0">0.0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="mary">
+      <data key="d0">0.0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="guinea">
+      <data key="d0">0.00130718954248366</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="rabbit">
+      <data key="d0">0.032520583991172226</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="cat">
+      <data key="d0">0.02477718360071301</data>
+      <data key="d1">4</data>
+    </node>
+    <node id="five">
+      <data key="d0">0.002393684746625923</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="pat">
+      <data key="d0">0.0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="bill">
+      <data key="d0">0.00505050505050505</data>
+      <data key="d1">4</data>
+    </node>
+    <node id="queen">
+      <data key="d0">0.04957558781088192</data>
+      <data key="d1">9</data>
+    </node>
+    <node id="two">
+      <data key="d0">0.002525252525252525</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="cheshire">
+      <data key="d0">0.0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="dodo">
+      <data key="d0">0.00089126559714795</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="lory">
+      <data key="d0">0.03190730837789661</data>
+      <data key="d1">4</data>
+    </node>
+    <node id="seven">
+      <data key="d0">0.0005941770647653</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="elsie">
+      <data key="d0">0.0</data>
+      <data key="d1">1</data>
+    </node>
+    <edge source="cook" target="alice">
+      <data key="d2">19</data>
+    </edge>
+    <edge source="cook" target="cat">
+      <data key="d2">8</data>
+    </edge>
+    <edge source="cook" target="baby">
+      <data key="d2">20</data>
+    </edge>
+    <edge source="cook" target="duchess">
+      <data key="d2">20</data>
+    </edge>
+    <edge source="cook" target="five">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="cook" target="seven">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="cook" target="king">
+      <data key="d2">28</data>
+    </edge>
+    <edge source="cook" target="rabbit">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="cook" target="queen">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="cook" target="dormouse">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="turtle" target="alice">
+      <data key="d2">125</data>
+    </edge>
+    <edge source="turtle" target="sister">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="turtle" target="crab">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="turtle" target="bill">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="turtle" target="guinea">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="turtle" target="caterpillar">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="turtle" target="queen">
+      <data key="d2">14</data>
+    </edge>
+    <edge source="turtle" target="two">
+      <data key="d2">10</data>
+    </edge>
+    <edge source="juror" target="alice">
+      <data key="d2">24</data>
+    </edge>
+    <edge source="juror" target="bill">
+      <data key="d2">9</data>
+    </edge>
+    <edge source="juror" target="king">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="march" target="alice">
+      <data key="d2">100</data>
+    </edge>
+    <edge source="march" target="queen">
+      <data key="d2">11</data>
+    </edge>
+    <edge source="march" target="mouse">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="march" target="dormouse">
+      <data key="d2">53</data>
+    </edge>
+    <edge source="march" target="king">
+      <data key="d2">11</data>
+    </edge>
+    <edge source="alice" target="rabbit">
+      <data key="d2">132</data>
+    </edge>
+    <edge source="alice" target="sister">
+      <data key="d2">31</data>
+    </edge>
+    <edge source="alice" target="dinah">
+      <data key="d2">27</data>
+    </edge>
+    <edge source="alice" target="cat">
+      <data key="d2">148</data>
+    </edge>
+    <edge source="alice" target="mouse">
+      <data key="d2">103</data>
+    </edge>
+    <edge source="alice" target="duchess">
+      <data key="d2">100</data>
+    </edge>
+    <edge source="alice" target="dodo">
+      <data key="d2">30</data>
+    </edge>
+    <edge source="alice" target="duck">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="alice" target="eaglet">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="alice" target="lory">
+      <data key="d2">25</data>
+    </edge>
+    <edge source="alice" target="mary">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="alice" target="bill">
+      <data key="d2">17</data>
+    </edge>
+    <edge source="alice" target="guinea">
+      <data key="d2">12</data>
+    </edge>
+    <edge source="alice" target="puppy">
+      <data key="d2">12</data>
+    </edge>
+    <edge source="alice" target="caterpillar">
+      <data key="d2">124</data>
+    </edge>
+    <edge source="alice" target="pigeon">
+      <data key="d2">24</data>
+    </edge>
+    <edge source="alice" target="baby">
+      <data key="d2">44</data>
+    </edge>
+    <edge source="alice" target="queen">
+      <data key="d2">160</data>
+    </edge>
+    <edge source="alice" target="two">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="alice" target="dormouse">
+      <data key="d2">82</data>
+    </edge>
+    <edge source="alice" target="elsie">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="alice" target="lacie">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="alice" target="tillie">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="alice" target="five">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="alice" target="seven">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="alice" target="king">
+      <data key="d2">117</data>
+    </edge>
+    <edge source="alice" target="cheshire">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="duchess" target="cat">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="duchess" target="queen">
+      <data key="d2">19</data>
+    </edge>
+    <edge source="duchess" target="king">
+      <data key="d2">14</data>
+    </edge>
+    <edge source="duchess" target="baby">
+      <data key="d2">47</data>
+    </edge>
+    <edge source="duchess" target="cheshire">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="lacie" target="dormouse">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="lacie" target="elsie">
+      <data key="d2">9</data>
+    </edge>
+    <edge source="lacie" target="tillie">
+      <data key="d2">9</data>
+    </edge>
+    <edge source="dormouse" target="elsie">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="dormouse" target="tillie">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="dormouse" target="sister">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="dormouse" target="king">
+      <data key="d2">13</data>
+    </edge>
+    <edge source="dormouse" target="queen">
+      <data key="d2">18</data>
+    </edge>
+    <edge source="duck" target="lory">
+      <data key="d2">8</data>
+    </edge>
+    <edge source="duck" target="eaglet">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="duck" target="mouse">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="duck" target="dodo">
+      <data key="d2">9</data>
+    </edge>
+    <edge source="baby" target="cheshire">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="baby" target="cat">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="baby" target="queen">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="sister" target="rabbit">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="eaglet" target="dodo">
+      <data key="d2">8</data>
+    </edge>
+    <edge source="eaglet" target="lory">
+      <data key="d2">9</data>
+    </edge>
+    <edge source="king" target="cat">
+      <data key="d2">13</data>
+    </edge>
+    <edge source="king" target="guinea">
+      <data key="d2">16</data>
+    </edge>
+    <edge source="king" target="rabbit">
+      <data key="d2">56</data>
+    </edge>
+    <edge source="king" target="knave">
+      <data key="d2">15</data>
+    </edge>
+    <edge source="king" target="queen">
+      <data key="d2">85</data>
+    </edge>
+    <edge source="dinah" target="mouse">
+      <data key="d2">8</data>
+    </edge>
+    <edge source="dinah" target="lory">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="dinah" target="cat">
+      <data key="d2">38</data>
+    </edge>
+    <edge source="knave" target="queen">
+      <data key="d2">19</data>
+    </edge>
+    <edge source="knave" target="rabbit">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="crab" target="lory">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="mouse" target="cat">
+      <data key="d2">22</data>
+    </edge>
+    <edge source="mouse" target="pat">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="mouse" target="rabbit">
+      <data key="d2">20</data>
+    </edge>
+    <edge source="mouse" target="dodo">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="mouse" target="lory">
+      <data key="d2">13</data>
+    </edge>
+    <edge source="tillie" target="elsie">
+      <data key="d2">8</data>
+    </edge>
+    <edge source="mary" target="rabbit">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="guinea" target="bill">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="rabbit" target="bill">
+      <data key="d2">14</data>
+    </edge>
+    <edge source="rabbit" target="queen">
+      <data key="d2">15</data>
+    </edge>
+    <edge source="cat" target="lory">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="cat" target="cheshire">
+      <data key="d2">48</data>
+    </edge>
+    <edge source="cat" target="queen">
+      <data key="d2">16</data>
+    </edge>
+    <edge source="five" target="seven">
+      <data key="d2">28</data>
+    </edge>
+    <edge source="five" target="queen">
+      <data key="d2">11</data>
+    </edge>
+    <edge source="five" target="two">
+      <data key="d2">11</data>
+    </edge>
+    <edge source="bill" target="queen">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="two" target="seven">
+      <data key="d2">13</data>
+    </edge>
+    <edge source="dodo" target="lory">
+      <data key="d2">9</data>
+    </edge>
+  </graph>
+</graphml>
